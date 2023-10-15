@@ -1,7 +1,7 @@
 # Görkem Paçacı's github home directory
 
 Here are all my repositories:
-[Github/gorkempacaci](https://github.com/gorkempacaci)
+[github/gorkempacaci](https://github.com/gorkempacaci)
 
 (I had to make this a separate page as for some reason Google won't index my Github page.)
 
